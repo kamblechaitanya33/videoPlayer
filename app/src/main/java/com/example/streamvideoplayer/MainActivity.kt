@@ -139,6 +139,8 @@ fun StreamingVideo() {
                             viewModel.index = index
                             videoItemIndex = viewModel.index
                         },
+
+                    //TEST
                     horizontalArrangement = Arrangement.spacedBy(16.dp),
                     verticalAlignment = Alignment.Bottom
                 ) {
